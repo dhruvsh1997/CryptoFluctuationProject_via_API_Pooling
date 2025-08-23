@@ -1,0 +1,6 @@
+************* Module app
+app.py:14:4: W0603: Using the global statement (global-statement)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.44/10 (previous run: 10.00/10, -0.56)
+
