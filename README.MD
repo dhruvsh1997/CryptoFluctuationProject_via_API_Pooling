@@ -395,6 +395,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+#Pylint Test : pylint --disable=W,C,R app.py > errors.txt  
+
 **Happy Coding! 🎉**
 
 *Built with ❤️ for learning API Polling concepts*
