@@ -307,6 +307,9 @@ services:
     restart: unless-stopped
 ```
 
+## Testing
+#Pylint Test : pylint --disable=W,C,R app.py > errors.txt  
+
 ## 🚀 CI/CD Pipeline
 
 The project includes a GitHub Actions workflow that:
@@ -394,8 +397,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. Open a Pull Request
 
 ---
-
-#Pylint Test : pylint --disable=W,C,R app.py > errors.txt  
 
 **Happy Coding! 🎉**
 
